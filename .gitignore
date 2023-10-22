@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+cmake-build-debug/
+build/
+tools/
+obj/
+.VSCodeCounter/
+test.txt
